@@ -38,13 +38,13 @@
 
 3> 将画面中的网址在浏览器中打开
 
-![image-20230712100928498](C:\Users\Death master\AppData\Roaming\Typora\typora-user-images\image-20230712100928498.png)
+![image-20230712100928498](https://github.com/Learner-Lee/nas/assets/89835879/5726f794-d1c1-46cf-943c-91e426e483da)
 
 
 
 4> 将会出现以下画面，然后用键盘中的上下键可以移动光标，首先选择Choose a model (选择型号) 点击回车。
 
-![image-20230712101129528](C:\Users\Death master\AppData\Roaming\Typora\typora-user-images\image-20230712101129528.png)
+![image-20230712101129528](https://github.com/Learner-Lee/nas/assets/89835879/d89c475c-979b-47f1-b70b-85878aa4612b)
 
 
 
