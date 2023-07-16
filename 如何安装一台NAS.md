@@ -32,7 +32,7 @@
 
 2> 之后等待程序启动，并出现以下画面（有可能会因为版本等一系列原因有所不同）
 
-![image-20230712100718976](C:\Users\Death master\AppData\Roaming\Typora\typora-user-images\image-20230712100718976.png)
+![image-20230712100718976](https://github.com/Learner-Lee/nas/assets/89835879/f75849aa-62ba-450e-87c9-ca35326362d7)
 
 
 
